@@ -1,0 +1,1 @@
+DOMAIN = "openwrt_nlbwmon"

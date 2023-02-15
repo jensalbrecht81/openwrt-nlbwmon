@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@jensalbrecht81"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/jensalbrecht81/openwrt_nlbwmon",
+  "domain": "openwrt_nlbwmon",
+  "iot_class": "local_polling",
+  "name": "OpenWRT nlbwmon",
+  "requirements": [],
+  "version": "1.0.0"
+}
